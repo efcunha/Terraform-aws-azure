@@ -22,4 +22,4 @@ Há algum requisito ou pré-requisito para o curso?
 - Noções básicas de Cloud Computing (AWS, Azure, etc)
 - Noções básicas de Linux
 
-# OBS: Nunca esqueça de executar o "terraform destroy", nos finais de cada modulo
+# OBS: Nunca esqueça de executar o "terraform destroy"
