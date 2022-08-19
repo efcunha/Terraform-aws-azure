@@ -2,7 +2,7 @@
 
 Com a grande popularidade e utilização dos provedores de cloud computing, a rapidez, versatilidade e agilidade para criar, manter, e versionar infraestrutura fez do Terraform uma das principais e mais utilizadas ferramentas do mundo DevOps.
 
-Este materia vai te proporcionar todo o conhecimento necessário para provisionar infraestrutura como código (IaC) usando Terraform, um dos requisitos mais procurado pelas empresas na atualidade.
+Este material vai te proporcionar todo o conhecimento necessário para provisionar infraestrutura como código (IaC) usando Terraform, um dos requisitos mais procurado pelas empresas na atualidade.
 
 Na sequência você vai conhecer sobre diversas funções e ferramentas que fazem parte do Terraform, como variáveis, outputs, state, provisioners, meta arguments, built-in functions, expressões, módulos e etc, que vão elevar o seu conhecimento à um nível avançado.
 
