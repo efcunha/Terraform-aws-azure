@@ -8,10 +8,10 @@ Na sequência você vai conhecer sobre diversas funções e ferramentas que faze
 
 Por fim você terá uma importante visão inicial sobre como usar o Terraform em pipelines CI/CD no Gitlab CI, Github Actions e Azure DevOps, uma habilidade extremamente importante e muito requisitada pelas empresas que procuram soluções DevOps.
 
-O que você aprenderá:
+O que você conseguira fazer com este material:
 
-- Aprender a criar scripts Terraform do zero ao avançado
-- Aprender a criar infraestrutura como código (IaC) com Terraform
+- Criar scripts Terraform do zero ao avançado
+- Criar infraestrutura como código (IaC) com Terraform
 - Criar infraestrutura em provedores de cloud (AWS e Azure) usando Terraform
 - Ter noções de como trabalhar com Terraform em um ambiente DevOps
 - Adaptar scripts Terraform à uma pipeline CI/CD (Gitlab CI, Azure DevOps e Github Actions)
